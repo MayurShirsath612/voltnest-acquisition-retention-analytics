@@ -1,0 +1,20 @@
+campaign_id,campaign_name,channel,campaign_type,cost_tracking_available
+CMP001,Paid Search Campaign 1,Paid Search,Paid,True
+CMP002,Paid Search Campaign 2,Paid Search,Paid,True
+CMP003,Paid Search Campaign 3,Paid Search,Paid,True
+CMP004,Paid Social Campaign 1,Paid Social,Paid,True
+CMP005,Paid Social Campaign 2,Paid Social,Paid,True
+CMP006,Paid Social Campaign 3,Paid Social,Paid,True
+CMP007,Display Campaign 1,Display,Paid,True
+CMP008,Display Campaign 2,Display,Paid,True
+CMP009,Display Campaign 3,Display,Paid,True
+CMP010,Email Campaign 1,Email,Owned,True
+CMP011,Email Campaign 2,Email,Owned,True
+CMP012,Email Campaign 3,Email,Owned,True
+CMP013,Organic Search Campaign 1,Organic Search,Organic,False
+CMP014,Organic Search Campaign 2,Organic Search,Organic,False
+CMP015,Organic Search Campaign 3,Organic Search,Organic,False
+CMP016,Referral Campaign 1,Referral,Referral,False
+CMP017,Referral Campaign 2,Referral,Referral,False
+CMP018,Referral Campaign 3,Referral,Referral,False
+CMP019,Direct Traffic,Direct,Direct,False

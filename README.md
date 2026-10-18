@@ -376,6 +376,22 @@ acquisition-to-retention-analytics/
 └── README.md
 ```
 
+
+## Dashboard Preview
+
+### Executive Summary
+![Executive Summary](powerbi/executive_summary.png)
+
+### Acquisition & Marketing Performance
+![Acquisition & Marketing Performance](powerbi/acquisition_marketing.png)
+
+### Conversion & Customer Retention
+![Conversion & Customer Retention](powerbi/conversion_retention.png)
+
+
+
+
+
 ---
 
 ## How to Explore the Project
@@ -386,6 +402,10 @@ acquisition-to-retention-analytics/
 4. **Data:** Review the CSV files under `data/raw/` and `data/processed/` to understand the source and prepared datasets.
 
 The data is synthetic, so the project can be used to demonstrate analytics techniques without representing the confidential performance of a real business.
+
+
+
+
 
 ---
 
